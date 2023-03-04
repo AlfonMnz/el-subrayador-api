@@ -16,7 +16,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@Movie-Rewind/core": "^1.0.5",
     "awilix": "^8.0.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
